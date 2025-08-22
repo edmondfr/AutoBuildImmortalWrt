@@ -14,10 +14,9 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-hd-idle-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-dufs-zh-cn	"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-filebrowser"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-filemanager-zh-cn"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-argon-config"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-theme-argon"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-argon-config-zh-cn"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-filemanager-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-argon-config"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-theme-argon"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-argon-config-zh-cn"
 
 # 代理相关
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-passwall-zh-cn"
