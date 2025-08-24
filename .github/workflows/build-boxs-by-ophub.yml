@@ -201,10 +201,10 @@ on:
       rootfs_partsize:
         description: '软件包大小1G固定'
         required: true
-        default: "600"
+        default: "1024"
         type: choice
         options:
-          - '600'
+          - '1024'
       builder_name:
         description: "设置打包作者的名称"
         required: true
